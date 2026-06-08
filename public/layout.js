@@ -113,7 +113,7 @@ function headerHTML() {
               <div class="webring-info">
                 <div>Apple lovers Webring!</div>
                 <div class="webring-links">
-                  <a href="https://poempuppy.neocities.org/webring/apple.html" target="_blank">What is this? style="text-decoration: underline;"</a>
+                  <a href="https://poempuppy.neocities.org/webring/apple.html" target="_blank" style="text-decoration: underline;">What is this?</a>
                 </div>
               </div>
 
@@ -142,7 +142,7 @@ function footerHTML() {
 
       <footer>
             <div>Memento mori, memento vivere <a href="${nesting}index.html">Go back</a> </div>
-            <div>If you're on mobile, click <a href="${nesting}reviews.html">here</a> to go to albums reviews </div>
+            <div>If you're on mobile, click <a href="${nesting}sites/reviews.html">here</a> to go to albums reviews </div>
       </footer>`;
 }
 
