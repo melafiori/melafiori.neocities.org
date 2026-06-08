@@ -64,7 +64,9 @@ function headerHTML() {
             <li>22 y/o</li>
             <li>#1 Fan of apples!</li>
           </ul>
-          <a href="https://www.instagram.com/melafiori/"><img src="${nesting}images/butttons/0199-instagramlogo.gif" alt="Instagram"></a>
+          <a href="https://www.instagram.com/melafiori/">
+          <img src="${nesting}images/butttons/0199-instagramlogo.gif" alt="Instagram">
+          </a>
           
         </div>
         
@@ -78,7 +80,7 @@ function headerHTML() {
             <img src="${nesting}images/buttons/emoticons.gif">
             <img src="${nesting}images/buttons/rainbow.png">
             <img src="${nesting}images/buttons/censorship.gif">
-            <img src="${nesting}images/buttons/deletetiktok.webp" style="max-width: 50px">
+            <img src="${nesting}images/buttons/deletetiktok.webp" style="max-width: 150px">
             <img src="${nesting}images/buttons/queercode.png">
             <img src="${nesting}images/buttons/0178-mikuwink2.gif">
           </marquee>
