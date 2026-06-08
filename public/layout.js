@@ -31,9 +31,7 @@ function headerHTML() {
         <div class="header-content">
 	        <div class="header-title">
 	        <p></p>
-	        </div>
-          <button id="sidebar-toggle">Menu</button>
-	        
+	        </div>	        
         	
         </div>
       </header>
@@ -144,6 +142,7 @@ function footerHTML() {
 
       <footer>
             <div>Memento mori, memento vivere <a href="${nesting}index.html">Go back</a> </div>
+            <div>If you're on mobile, click <a href="${nesting}reviews.html">here</a> to go to albums reviews </div>
       </footer>`;
 }
 
