@@ -148,7 +148,8 @@ function footerHTML() {
       <!-- =============================================== -->
 
       <footer>
-          <button id="sidebar-toggle">Menu</button>
+          <p>&copy; 2026 Cassie (Melafiori)</p>
+          <button id="sidebar-toggle">Menu for mobile</button>
       </footer>`;
 }
 
