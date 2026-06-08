@@ -97,6 +97,21 @@ function headerHTML() {
 
         <div class="sidebar-section">
           <div id='apple-webring' data-apple="red">
+            <div class="webring-row">
+              <div class="webring-prev">
+                <a href="https.//sodahaunt.neocities.org">
+                  <img class="arrow previous" src="https://poempuppy.neocities.org/assets/apple-arrow-previous.png">
+                </a>
+              </div>
+              <a href="https://poempuppy.neocities.org/webring/apple.html" target="_blank">
+                <img class="webring-img" src="https://poempuppy.neocities.org/assets/apple-red-apple.PNG">
+              </a>
+              <div class="webring-next">
+                <a href="https://webbersite.neocities.org">
+                  <img class="arrow next" src="https://poempuppy.neocities.org/assets/apple-arrow-next.png">
+                </a>
+              </div>
+            </div>
             <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-variables.js"></script>
             <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-widget.js"></script>
           </div>
