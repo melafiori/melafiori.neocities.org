@@ -65,7 +65,10 @@ function headerHTML() {
             <li>#1 Fan of apples!</li>
           </ul>
           <a href="https://www.instagram.com/melafiori/">
-          <img src="${nesting}images/buttons/0199-instagramlogo.gif" alt="Instagram">
+          <img src="${nesting}images/buttons/0199-instagramlogo.gif" alt="Instagram" target="_blank">
+          </a>
+          <a href="https://www.twitter.com/melafiori/">
+          <img src="${nesting}images/buttons/0201-twitterlogo.gif" alt="Twitter" target="_blank">
           </a>
           
         </div>
@@ -73,6 +76,7 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title">Buttons and blinkies</div>
           <marquee>
+            <img src="${nesting}images/buttons/0072-lesbian.gif">
             <img src="${nesting}images/buttons/site-created-without-ai.png">
             <img src="${nesting}images/buttons/button%20(1).gif">
             <img src="${nesting}images/buttons/transrights.gif">
