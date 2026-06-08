@@ -1,7 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Page has finished loading. Now, do things.
   loadLayoutByPetraPixel();
+  const toggleButton = document.getElementById('sidebar-toggle');
+  const sidebar = document.querySelector('.left-sidebar'); // Use querySelector for class
 
+  if (toggleButton && sidebar) {
+    toggleButton.addEventListener('click', () => {
+      sidebar.classList.toggle('show');
+    });
+  }
   // Add any custom JavaScript code here...
 });
 
@@ -141,8 +148,7 @@ function footerHTML() {
       <!-- =============================================== -->
 
       <footer>
-            <div>Memento mori, memento vivere <a href="${nesting}index.html">Go back</a> </div>
-            <div>If you're on mobile, click <a href="${nesting}sites/reviews.html">here</a> to go to albums reviews </div>
+          <button id="sidebar-toggle">Menu</button>
       </footer>`;
 }
 
