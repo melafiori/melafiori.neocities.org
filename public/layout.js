@@ -107,7 +107,7 @@ function headerHTML() {
           <div id='apple-webring' data-apple="red">
             <div class="webring-row">
               <div class="webring-prev">
-                <a href="https.//sodahaunt.neocities.org">
+                <a href="https://sodahaunt.neocities.org">
                   <img class="arrow previous" src="https://poempuppy.neocities.org/assets/apple-arrow-previous.png">
                 </a>
               </div>
@@ -150,7 +150,7 @@ function footerHTML() {
       <!-- =============================================== -->
 
       <footer>
-          <p>&copy; 2026 Cassie (Melafiori)</p>
+          <p>Memento mori, memento vivere.</p>
           <p></p>
           <button id="sidebar-toggle">Menu for mobile</button>
       </footer>`;
