@@ -496,6 +496,10 @@ main h6 {
     display: block;
   }
 
+  #chiikawa {
+    max-width:400px;
+  }
+
   body {
     font-size: 14px;
   }
