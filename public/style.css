@@ -501,8 +501,7 @@ main h6 {
   }
 
   .left-sidebar.show{
-    display:contents;
-    background: #6d4d4fee;
+    display:block;
   }
   
 
