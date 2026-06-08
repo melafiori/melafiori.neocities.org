@@ -114,7 +114,7 @@ function headerHTML() {
               <div class="webring-info">
                 <div>Apple lovers Webring!</div>
                 <div class="webring-links">
-                  <a href="https://poempuppy.neocities.org/webring/apple.html" target="_blank">What is this?</a>
+                  <a href="https://poempuppy.neocities.org/webring/apple.html" target="_blank">What is this? style="text-decoration: underline;"</a>
                 </div>
               </div>
 
