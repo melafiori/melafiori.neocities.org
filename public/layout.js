@@ -65,7 +65,7 @@ function headerHTML() {
             <li>#1 Fan of apples!</li>
           </ul>
           <a href="https://www.instagram.com/melafiori/">
-          <img src="${nesting}images/butttons/0199-instagramlogo.gif" alt="Instagram">
+          <img src="${nesting}images/buttons/0199-instagramlogo.gif" alt="Instagram">
           </a>
           
         </div>
