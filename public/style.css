@@ -233,6 +233,17 @@ footer a:focus {
   color: var(--link-color-hover);
 }
 
+#sidebar-toggle {
+  border: none;
+  padding: 10px 20px;
+  color: var(--text-color);
+  background: var(--sidebar-background-color);
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: var(--round-borders);
+  
+}
+
 /* -------------------------------------------------------- */
 /* NAVIGATION */
 /* -------------------------------------------------------- */
