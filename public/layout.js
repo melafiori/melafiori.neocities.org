@@ -149,6 +149,7 @@ function footerHTML() {
 
       <footer>
           <p>&copy; 2026 Cassie (Melafiori)</p>
+          <p></p>
           <button id="sidebar-toggle">Menu for mobile</button>
       </footer>`;
 }
