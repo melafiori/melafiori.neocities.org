@@ -111,6 +111,14 @@ function headerHTML() {
                   <img class="arrow next" src="https://poempuppy.neocities.org/assets/apple-arrow-next.png">
                 </a>
               </div>
+              <div class="webring-info">
+                <div>Apple lovers Webring!</div>
+                <div class="webring-links">
+                  <a href="https://poempuppy.neocities.org/webring/apple.html" target="_blank">What is this?</a>
+                </div>
+              </div>
+
+
             </div>
             <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-variables.js"></script>
             <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-widget.js"></script>
