@@ -81,19 +81,21 @@ function headerHTML() {
         
         <div class="sidebar-section">
           <div class="sidebar-title">Buttons and blinkies</div>
-          <marquee>
-            <img src="${nesting}images/buttons/0072-lesbian.gif">
-            <img src="${nesting}images/buttons/site-created-without-ai.png">
-            <img src="${nesting}images/buttons/button%20(1).gif">
-            <img src="${nesting}images/buttons/transrights.gif">
-            <img src="${nesting}images/buttons/firefox.gif">
-            <img src="${nesting}images/buttons/emoticons.gif">
-            <img src="${nesting}images/buttons/rainbow.png">
-            <img src="${nesting}images/buttons/censorship.gif">
-            <img src="${nesting}images/buttons/deletetiktok.webp" style="max-width: 150px">
-            <img src="${nesting}images/buttons/queercode.png">
-            <img src="${nesting}images/buttons/0178-mikuwink2.gif">
-          </marquee>
+          <div class="marquee-container">
+            <div class="marquee-content">
+              <img src="${nesting}images/buttons/0072-lesbian.gif">
+              <img src="${nesting}images/buttons/site-created-without-ai.png">
+              <img src="${nesting}images/buttons/button%20(1).gif">
+              <img src="${nesting}images/buttons/transrights.gif">
+              <img src="${nesting}images/buttons/firefox.gif">
+              <img src="${nesting}images/buttons/emoticons.gif">
+              <img src="${nesting}images/buttons/rainbow.png">
+              <img src="${nesting}images/buttons/censorship.gif">
+              <img src="${nesting}images/buttons/deletetiktok.webp" style="max-width: 150px">
+              <img src="${nesting}images/buttons/queercode.png">
+              <img src="${nesting}images/buttons/0178-mikuwink2.gif">
+            </div>
+          </div>
         </div>
         
         <div class="sidebar-section">
