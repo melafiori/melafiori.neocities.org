@@ -32,6 +32,7 @@ function headerHTML() {
 	        <div class="header-title">
 	        <p></p>
 	        </div>
+          <button id="sidebar-toggle">Menu</button>
 	        
         	
         </div>

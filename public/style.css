@@ -492,6 +492,10 @@ main h6 {
   .left-sidebar { 
     display: none;
   }
+
+  .left-sidebar.show{
+    display: block;
+  }
   
 
   aside {
