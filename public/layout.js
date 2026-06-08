@@ -150,7 +150,7 @@ function footerHTML() {
       <!-- =============================================== -->
 
       <footer>
-          <p>Memento mori, memento vivere.</p>
+          <p>Memento mori,memento vivere.</p>
           <p></p>
           <button id="sidebar-toggle">Menu for mobile</button>
       </footer>`;
