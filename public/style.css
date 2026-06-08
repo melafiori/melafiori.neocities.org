@@ -496,8 +496,11 @@ main h6 {
     display: block;
   }
 
-  #chiikawa {
-    max-width: 100%;
+  main img {
+    max-width: 100%;  /* Prevents the image from being wider than its container */
+    height: auto;     /* Maintains the original aspect ratio so it doesn't look stretched */
+    display: block;   /* Removes any extra whitespace underneath the image */
+    margin: 10px auto; /* Optional: centers the image nicely if it's smaller than the screen */
   }
 
   body {
