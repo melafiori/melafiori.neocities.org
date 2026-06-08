@@ -95,10 +95,11 @@ function headerHTML() {
           <img class="full-width-image" src="${nesting}images/CATSCARF.jpg">
         </div>
 
-        
-        <div id='apple-webring' data-apple="red">
-          <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-variables.js"></script>
-          <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-widget.js"></script>
+        <div class="sidebar-section">
+          <div id='apple-webring' data-apple="red">
+            <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-variables.js"></script>
+            <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-widget.js"></script>
+          </div>
         </div>
       </aside>
 	
