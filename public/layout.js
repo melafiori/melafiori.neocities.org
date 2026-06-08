@@ -94,6 +94,12 @@ function headerHTML() {
           <div class="sidebar-title">He's just like me fr fr</div>
           <img class="full-width-image" src="${nesting}images/CATSCARF.jpg">
         </div>
+
+        
+        <div id='apple-webring' data-apple="red">
+          <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-variables.js"></script>
+          <script type="text/javascript" src="https://poempuppy.neocities.org/webring/onionring-widget.js"></script>
+        </div>
       </aside>
 	
       `;
