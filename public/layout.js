@@ -58,6 +58,7 @@ function headerHTML() {
           <ul>
             <li><a href="${nesting}index.html">Home</a></li>
             <li><a href="${nesting}sites/reviews.html">Album Reviews</a></li>
+            <li><a href="https://melafiori.atabook.org/" target="_blank">Guestbook</a></li>
           </ul>
         </nav>
         
