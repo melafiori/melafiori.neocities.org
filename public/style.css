@@ -234,6 +234,7 @@ footer a:focus {
 }
 
 #sidebar-toggle {
+  display: none;
   border: none;
   padding: 10px 20px;
   color: var(--text-color);
@@ -490,6 +491,11 @@ main h6 {
 
 /* CSS Code for devices < 800px */
 @media (max-width: 800px) {
+
+  #sidebar-toggle {
+    display: block;
+  }
+
   body {
     font-size: 14px;
   }
