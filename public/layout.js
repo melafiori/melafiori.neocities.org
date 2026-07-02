@@ -95,7 +95,7 @@ function headerHTML() {
               <img src="${nesting}images/buttons/deletetiktok.webp" style="max-width: 150px">
               <img src="${nesting}images/buttons/queercode.png">
               <img src="${nesting}images/buttons/0178-mikuwink2.gif">
-            </div>
+              </div>
           </div>
         </div>
         
