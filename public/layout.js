@@ -74,9 +74,6 @@ function headerHTML() {
           <a href="https://www.instagram.com/melafiori/">
           <img src="${nesting}images/buttons/0199-instagramlogo.gif" alt="Instagram" target="_blank" style="max-width: 150px">
           </a>
-          <a href="https://www.twitter.com/melafiori/">
-          <img src="${nesting}images/buttons/0201-twitterlogo.gif" alt="Twitter" target="_blank" style="max-width: 150px">
-          </a>
           
         </div>
         
