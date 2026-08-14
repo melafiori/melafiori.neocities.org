@@ -71,9 +71,12 @@ function headerHTML() {
             <li>22 y/o</li>
             <li>#1 Fan of apples!</li>
           </ul>
-          <a href="https://www.instagram.com/melafiori/">
-          <img src="${nesting}images/buttons/0199-instagramlogo.gif" alt="Instagram" target="_blank" style="max-width: 150px">
-          </a>
+          <div class="sidebar-title">Socials</div>
+            <ul>
+              <li><a href="https://www.instagram.com/melafiori/">Instagram</a></li>
+              <li><a href="https://bsky.app/profile/melafiori.bsky.social">Bluesky</a></li>
+            </ul>
+          </div>
           
         </div>
         
