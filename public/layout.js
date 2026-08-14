@@ -73,8 +73,8 @@ function headerHTML() {
           </ul>
           <div class="sidebar-title">Socials</div>
             <ul>
-              <li><a href="https://www.instagram.com/melafiori/">Instagram</a></li>
-              <li><a href="https://bsky.app/profile/melafiori.bsky.social">Bluesky</a></li>
+              <li><a href="https://www.instagram.com/melafiori/" target="_blank">Instagram</a></li>
+              <li><a href="https://bsky.app/profile/melafiori.bsky.social" target="_blank">Bluesky</a></li>
             </ul>
           </div>
           
@@ -165,11 +165,11 @@ function giveActiveClassToCurrentPage() {
   [...els].forEach((el) => {
     // Get the href attribute
     const href = el.getAttribute("href");
-    
+
     // Check if the current page path ends with the link's target
     // We use .replace(nesting, "") to isolate the filename
-    const targetFile = href.replace(nesting, ""); 
-    
+    const targetFile = href.replace(nesting, "");
+
     if (currentPath.endsWith(targetFile)) {
       el.classList.add("active");
 
