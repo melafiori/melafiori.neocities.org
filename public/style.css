@@ -398,8 +398,8 @@ main hr {
 
 #statuscafe {
     padding: .5em;
-    background-color: azure;
-    border: 1px solid midnightblue;
+    background-color:var(--content-background-color);
+    border: 1px solid #aaa;
 }
 #statuscafe-username {
     margin-bottom: .5em;
