@@ -381,7 +381,7 @@ main hr {
 
 .updates-box {
   width: 100%;
-  max-width: 300px;
+  max-width: 80%;
   height: 200px;
   overflow-y: auto;
   padding: 4px;
