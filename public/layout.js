@@ -76,8 +76,6 @@ function headerHTML() {
           <ul>
             <li>Cassie (A.K.A. Melafiori)</li>
             <li>She/her</li>
-            <li>Transwoman</li>
-            <li>22 y/o</li>
             <li>#1 Fan of apples!</li>
           </ul>
           <div class="sidebar-title">wanna know me?</div>
