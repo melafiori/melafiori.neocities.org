@@ -386,7 +386,7 @@ main hr {
   overflow-y: auto;
   padding: 4px;
   border: 1px groove #000;
-  border-radius: 5px;
+  border-radius: 6px;
   box-sizing: border-box;
 }
 
