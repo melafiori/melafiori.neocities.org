@@ -73,13 +73,13 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title">Who am I?</div>
           <ul>
-            <li>Cassie (username=Melafiori)</li>
+            <li>Cassie (A.K.A. Melafiori)</li>
             <li>She/her</li>
             <li>Transwoman</li>
             <li>22 y/o</li>
             <li>#1 Fan of apples!</li>
           </ul>
-          <div class="sidebar-title">Socials</div>
+          <div class="sidebar-title">wanna know me?</div>
             <ul>
               <li><a href="https://www.instagram.com/melafiori/" target="_blank">Instagram</a></li>
               <li><a href="https://bsky.app/profile/melafiori.bsky.social" target="_blank">Bluesky</a></li>
@@ -108,7 +108,7 @@ function headerHTML() {
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Status</div>
+          <div class="sidebar-title">deer's thoughts</div>
             <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
         </div>
 
