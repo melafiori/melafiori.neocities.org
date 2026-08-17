@@ -64,9 +64,10 @@ function headerHTML() {
         <nav>
           <div class="sidebar-title">Navigation</div>
           <ul>
-            <li><a href="${nesting}index.html">Home</a></li>
-            <li><a href="${nesting}sites/reviews.html">Album Reviews</a></li>
-            <li><a href="https://melafiori.atabook.org/" target="_blank">Guestbook</a></li>
+            <li><a href="${nesting}index.html">homepage</a></li>
+            <li><a href="${nesting}sites/about.html">who am i?</a></li>
+            <li><a href="${nesting}sites/reviews.html">deer listens to music!</a></li>
+            <li><a href="https://melafiori.atabook.org/" target="_blank">guestbook :> </a></li>
           </ul>
         </nav>
         
