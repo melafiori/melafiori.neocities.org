@@ -408,6 +408,16 @@ main hr {
     margin: 0 1em 0.5em 1em;
 }
 
+.row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.row > section {
+  flex: 1;
+}
+
 
 /* HEADINGS: */
 
