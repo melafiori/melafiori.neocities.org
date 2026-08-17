@@ -98,6 +98,11 @@ function headerHTML() {
               </div>
           </div>
         </div>
+        
+        <div class="sidebar-section">
+          <div class="sidebar-title">Status</div>
+          <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=melafiori" defer></script>
+        </div>
 
         <div class="sidebar-section">
           <div id='apple-webring' data-apple="red">
