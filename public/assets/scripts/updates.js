@@ -1,4 +1,4 @@
-fetch("assets/scripts/updates.json")
+fetch("assets/updates.json")
   .then(res => res.json())
   .then(updates => {
     const box = document.getElementById("updates-box");
