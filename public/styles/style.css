@@ -1,0 +1,157 @@
+@font-face {
+    font-family: 'ndsfont';
+    src: url('../resources/fonts/NDS12.ttf') format('truetype');
+}
+
+header {
+  grid-area: header;
+  font-size: 1.6em;
+  color: black;
+  text-align: center;
+  border: var(--border);
+  border-radius: var(--round-borders);
+
+
+}
+
+body {
+    background-color: #fce4ec; /* Rosa pastel */
+    background-image: url('https://gifcity.carrd.co/assets/images/gallery70/f27d9272.gif?v=3fc8f5cd'); /* Patrón de fondo opcional */
+    font-family: 'ndsfont';
+    color: #4a4a4a;
+    margin: 0;
+    padding: 20px;
+
+
+
+}
+
+/* El contenedor que centra la página */
+#contenedor-global {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    border: 2px dashed #f48fb1;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+/* Cabecera */
+#cabecera {
+    text-align: center;
+    background-color: #f8bbd0;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #f48fb1;
+    background-image: url("../resources/images/3096293491336391.jpg");
+    background-size:contain;
+    background-position: center;
+}
+
+/* Estructura de dos columnas */
+#area-dividida {
+    display: flex;
+    gap: 15px;
+}
+
+/* Menú lateral izquierdo */
+#sidebar {
+    width: 200px;
+    background-color: #fce4ec;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #f48fb1;
+}
+
+#sidebar nav a {
+    display: block;
+    text-decoration: none;
+    color: #d81b60;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+#sidebar nav ul {
+    list-style-image: url('https://yokai.crd.co/assets/images/gallery28/a9cd28aa.gif?v=b4df531c');
+}
+
+#sidebar nav a:hover {
+    text-decoration: underline;
+    color: #ad1457;
+}
+
+.sidebar-box {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: white;
+    border: 1px dashed #f48fb1;
+    text-align: center;
+    font-size: 12px;
+}
+
+.caja-scroll {
+    max-height: 250px; 
+    overflow-y: auto;  
+    text-align: left;
+    font-size: 12px;
+}
+
+.caja-scroll h3 {
+    margin: 0 0 10px 0;
+    text-align: center;
+    font-size: 13px;
+    color: #d81b60;
+}
+
+
+.update-item {
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px dotted #f48fb1;
+}
+
+.update-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+.caja-scroll::-webkit-scrollbar {
+    width: 6px;
+}
+.caja-scroll::-webkit-scrollbar-track {
+    background: #fce4ec; 
+    border-radius: 4px;
+}
+.caja-scroll::-webkit-scrollbar-thumb {
+    background: #f48fb1; 
+    border-radius: 4px;
+}
+
+
+#contenido-principal {
+    flex: 1; 
+    background-color: white;
+    padding: 0 15px;
+}
+
+/* Pie de página */
+#pie-pagina {
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 2px dashed #f48fb1;
+    font-size: 12px;
+}
+
+#gif-esquina {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    width: 100px;
+    pointer-events: none;
+}
