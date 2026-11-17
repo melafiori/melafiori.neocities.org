@@ -1,4 +1,5 @@
 const misActualizaciones = [
+    { fecha: "17-11-2026", texto: "added the reviews page back!, now you can see what i think about some of my favorite albums, check it out!"},
     { fecha: "17-11-2026", texto: "added guestbook to the navbar, please make sure to leave something<3" },
     { fecha: "16-11-2026", texto: "added a new page called 'socials', where you can find all my social media links!" },
     { fecha: "15-11-2026", texto: "added a new page called 'about me', where you can learn more about me and my projects!" },

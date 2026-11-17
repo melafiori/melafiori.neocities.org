@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <li><a href="index.html">home</a></li>
                             <li><a href="about.html">about me</a></li>
                             <li><a href="socials.html">socials</a></li>
+                            <li><a href="reviews.html">music</a></li>
                             <li><a href="https://melafiori.atabook.org/" target="_blank">guestbook</a></li>
                         </ul>
                     </nav>
